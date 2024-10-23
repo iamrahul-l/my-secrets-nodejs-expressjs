@@ -56,4 +56,3 @@ To use the application:
 - If the password is correct, serves the secret page (`secret.html`).
 - If the password is incorrect, serves the home page again.
 
-```
